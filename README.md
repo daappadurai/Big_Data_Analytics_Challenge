@@ -20,13 +20,19 @@ Finally, the three results listed in the overview are determined.
 
 The vine program members are considerably smaller(231) compared to non-vine members(16,464). It makes sense because, vine membership is only upon invitation by Amazon who are assessed based on their ability to give useful reviews. 
 
+![Total Number of Reviews](images/total_vine_non_vine.png)
+
 ## **Total number of 5-star reviews:**
 
 The number of 5-star reviews by vine members totals to 93 compared to 4867 for non-vine members. Though the actual numbers are small, it stems from the variable sample size of each group, hence its important to calculate the percentage 5-star reviews for both the groups.
 
+![Five-Star Reviews](images/total_five_star.png)
+
 ## **Percentage 5-star reviews:**
 
 The percentage of 5-star reviews by vine members is about 40% compared to 30% by non-vine members. Now it becomes clear that vine members offer 10% more 5-star reviews than non-vine members.
+
+![Percentage Five-Star Reviews](images/percent_five_star.png)
 
 ## **Pitfalls of the study:**
 
